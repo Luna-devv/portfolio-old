@@ -1,0 +1,106 @@
+<html>
+    <head>
+
+        <meta property='og:title' id="morrissee.eu" content='My website' />
+        <meta property='og:type' content="website" />
+        <meta property='og:description' id="eDesc" content='Here you have my Website!' />
+        <meta property="og:image" id="eIcon" content='images/fav_icon.png' />
+        <meta name="theme-color" content="#c83ca0">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.2.0/tailwind.min.css">
+        <style>
+            body, html {
+                overflow-x: hidden;
+            }
+            body, html {
+                overflow-x: hidden;
+            }
+            body {
+                padding-bottom: 30px;
+            }
+            header span:hover, .card:hover {
+                cursor: pointer;
+                transition-duration: 0.2s;
+            }
+            header span {
+                transition: background-color 75ms ease-in-out;
+                transition: box-shadow 75ms ease-in-out;
+            }
+            .card {
+                transform: rotate(0deg);
+                transition: transform 0.2s ease-in-out;
+            }
+            .card:hover {
+                transform: rotate(2deg);
+            }
+            #splashIcon {
+                transform: translateY(-60%);
+            }
+            #list {
+                display: grid;
+                margin: auto;
+                grid-template-columns: repeat(auto-fit, 320px);
+                grid-gap: 50px;
+                justify-content:center;
+                margin-top: 300px;
+            }
+            * {
+                user-select: none;
+            }
+            .partner-title {
+                display: none;
+            }
+            @media only screen and (max-width: 600px) {
+                #list {
+                    grid-gap: 30px;
+                    margin-top: 220px;
+                }
+            }
+        </style>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Your Name (line 61)</title>                                      <!-- Put your Website Name here-->
+        <link rel="shortcut icon" href="images/fav_icon.png" type="image/x-icon">
+    </head>
+    <body class="pt-40 p-0 bg-gray-900 text-white">
+
+        <div class="text-center md:w-1/2 w-screen select-none">
+            <a class="text-6xl font-semibold"">Your Name (line 67)</a> <br>      <!-- Put your Name here-->
+            <a class="text-gray-500"">Your Description (line 68)</a> <br>      <!-- Put your Description here-->
+        </div>
+        <div class="w-1/2 float-right hidden md:block">
+            <img src="images/me.png" id="splashIcon" style="border-radius: 20px;" class="overflow-hidden w-64 mx-auto">
+        </div>
+        <div class="px-20 w-screen" id="list">
+            <!-- FIELD ONE -->
+
+            <div class="card bg-gray-100 rounded-lg bg-gray-800 hover:shadow-xl p-5 content-around" onclick="window.open('    ')">   <!-- Put your Website Link here-->
+                <div class="flex">
+                    <img src="images/field_1.png" class="rounded-lg w-10 h-10"><span class="font-bold ml-3 mt-2">Name (line 78)</span> <!-- Put your Fiel image and your field name Link here-->
+                </div>
+                <p class="text-gray-400 mt-2">
+                    Description (line 81) <!-- Put your Description here-->
+                </p>
+                <p class="text-blue-300 mt-2">
+                    link (line 84)      <!-- Put your Link here-->
+                </p>
+            </div>
+
+
+            <!-- FIELD TWO -->
+
+            <div class="card bg-gray-100 rounded-lg bg-gray-800 hover:shadow-xl p-5 content-around" onclick="window.open('    ')">   <!-- Put your Website Link here-->
+                <div class="flex">
+                    <img src="images/field_2.png" class="rounded-lg w-10 h-10"><span class="font-bold ml-3 mt-2">Name (line 93)</span> <!-- Put your Fiel image and your field name Link here-->
+                </div>
+                <p class="text-gray-400 mt-2">
+                    Description (line 96) <!-- Put your Description here-->
+                </p>
+                <p class="text-blue-300 mt-2">
+                    link (line 99)      <!-- Put your Link here-->
+                </p>
+            </div>
+
+
+        </div>
+    </body>
+</html>
