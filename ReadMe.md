@@ -1,10 +1,7 @@
 # Website Template
 
-## Website to download
-- [template.morrissee.eu](https://template.morrissee.eu)
-
 ## Examples
-- [morrissee.eu](https://morrissee.eu)
+- [Lunana.xyz](https://Lunana.xyz)
 - [flamex.dev](https://flamex.dev)
 - [archolek.xyz](https://www.archolek.xyz/)
 
