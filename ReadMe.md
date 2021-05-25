@@ -13,7 +13,7 @@
 1. All things to be changed are specified in the index.html and on the website (dobble click index.html)!
 
 ## Help
-1. Text me on discord [Morris#1010](https://discord.com/users/821472922140803112).
+1. Text me on discord [Luna#8080](https://discord.com/users/821472922140803112).
 2. Wait.
 3. Get an answer.
 
@@ -22,4 +22,4 @@
 
 ## Made by
 [Flamex](https://github.com/Flamexdev) - Original but complicated template! <br>
-[Morris](https://github.com/Morrisseemann) - Simplified template!
+[Luna](https://github.com/Luna-devv) - Simplified template!
