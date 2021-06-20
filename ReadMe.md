@@ -2,7 +2,6 @@
 
 ## Examples
 - [Lunana.xyz](https://Lunana.xyz)
-- [flamex.dev](https://flamex.dev)
 - [archolek.xyz](https://www.archolek.xyz/)
 
 ## Install
