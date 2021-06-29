@@ -16,8 +16,8 @@
 2. Wait.
 3. Get an answer.
 
-## ! Important !
-- please mention on your website that it was created by me (us)! I reserve the right to take websites offline through [copyrighted.com](https://www.copyrighted.com/website/N0OQe7w12DnwEMm9)!
+## Hey.. its made by us
+- please mention on your website that it was created by me (us)! ty
 
 ## Made by
 [Flamex](https://github.com/Flamexdev) - Original but complicated template! <br>
