@@ -12,7 +12,7 @@
 2. Unzip the Downloaded File.
 
 ## Change things
-1. All things to be changed are specified in the index.html and on the website (dobble click index.html)!
+1. All things to be changed are specified in the index.html and on the Website (double click index.html)!
 
 ## Help
 1. Text me on discord [Luna#8080](https://discord.com/users/821472922140803112).
