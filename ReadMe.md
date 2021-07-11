@@ -3,6 +3,9 @@
 ## Examples
 - [Lunana.xyz](https://Lunana.xyz)
 - [archolek.xyz](https://www.archolek.xyz/)
+- [tayronm.xyz](https://tayronm.xyz)
+- [tac-fm.ml](https://tac-fm.ml)
+- [Template Website](https://template.lunana.xyz)
 
 ## Install
 1. Download the latest release from [here](https://github.com/MorrisSeemann/Website).
@@ -22,3 +25,4 @@
 ## Made by
 [Flamex](https://github.com/Flamexdev) - Original but complicated template! <br>
 [Luna](https://github.com/Luna-devv) - Simplified template!
+[Tayron](https://github.com/tayron1) - Just get the shit better looking and yes
