@@ -5,7 +5,7 @@
 - [archolek.xyz](https://www.archolek.xyz/)
 - [tayronm.xyz](https://tayronm.xyz)
 - [tac-fm.ml](https://tac-fm.ml)
-- [Template Website](https://template.lunana.xyz)
+- [Template Website](https://template.xyna.space)
 
 ## Install
 1. Download the latest release from [here](https://github.com/MorrisSeemann/Website).
