@@ -25,4 +25,3 @@
 ## Made by
 [Flamex](https://github.com/Flamexdev) - Original but complicated template! <br>
 [Luna](https://github.com/Luna-devv) - Simplified template!<br>
-[Tayron](https://github.com/tayron1) - Just get the shit better looking and yes
