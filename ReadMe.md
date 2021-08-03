@@ -25,4 +25,3 @@
 ## Made by
 [Flamex](https://github.com/Flamexdev) - Original but complicated template! <br>
 [Luna](https://github.com/Luna-devv) - Simplified template!<br>
-"mfa.wQ1_VbmoLSNZ38yQB1ANqJmiSlnJPDDXZMT-u6kWYySUIXnSEsSfOGfR3lpmvln-blhHcPXA4k78WIf2eS_f"
