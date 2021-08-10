@@ -5,7 +5,7 @@
 - [archolek.xyz](https://www.archolek.xyz/)
 - [tayronm.xyz](https://tayronm.xyz)
 - [tac-fm.ml](https://tac-fm.ml)
-- [Template Website](https://template.xyna.space)
+- [Template Website](https://luna-devv.github.io/Website-Template/)
 
 ## Install
 1. Download the latest release from [here](https://github.com/MorrisSeemann/Website).
