@@ -1,7 +1,7 @@
 # Website Template
 
 ## Examples
-- [Lunana.xyz](https://Lunana.xyz)
+- [xyna.space](https://l.xyna.space)
 - [archolek.xyz](https://www.archolek.xyz/)
 - [tayronm.xyz](https://tayronm.xyz)
 - [tac-fm.ml](https://tac-fm.ml)
