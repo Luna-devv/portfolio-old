@@ -8,14 +8,14 @@
 - [Template Website](https://luna-devv.github.io/Website-Template/)
 
 ## Install
-1. Download the latest release from [here](https://github.com/MorrisSeemann/Website).
+1. Download the latest release from [here](https://github.com/Luna-devv/Website-Template).
 2. Unzip the Downloaded File.
 
 ## Change things
 1. All things to be changed are specified in the index.html and on the Website (double click index.html)!
 
 ## Help
-1. Text me on discord [Luna#8080](https://discord.com/users/821472922140803112).
+1. Text me on discord [Luni#8888](https://discord.com/users/821472922140803112).
 2. Wait.
 3. Get an answer.
 
