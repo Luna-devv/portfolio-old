@@ -5,6 +5,7 @@
 - [archolek.xyz](https://www.archolek.xyz/)
 - [tayronm.xyz](https://tayronm.xyz)
 - [tac-fm.ml](https://tac-fm.ml)
+- [infoblock.gq](https://infoblock.gq)
 - [Template Website](https://luna-devv.github.io/Website-Template/)
 
 ## Install
