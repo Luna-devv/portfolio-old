@@ -2,7 +2,7 @@
 **New version:** [Repo](https://github.com/Luna-devv/Modern-Website), [Prewiev](https://luna-devv.github.io/Modern-Website/), [Example](https://l.xyna.space)
 
 ### Example pages
-- [Prewiev](https://luna-devv.github.io/Website-Template/)
+- [Preview](https://luna-devv.github.io/Clean-Website/)
 - [archolek.xyz](https://www.archolek.xyz/)
 - [tayronm.xyz](https://tayronm.xyz)
 - [infoblock.gq](https://infoblock.gq)
