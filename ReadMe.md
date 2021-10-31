@@ -4,12 +4,12 @@
 ### Example pages
 - [Preview](https://luna-devv.github.io/Clean-Website/)
 - [archolek.xyz](https://www.archolek.xyz/)
-- [tayronm.xyz](https://tayronm.xyz)
 - [infoblock.gq](https://infoblock.gq)
 
-### Help
-1. Join our support server here: [xyna.space/support](https://xyna.space/support).
-2. Ping Luni#8888 and ask your question.
+## Help
+1. Reach me on Discord by **[joining our server](https://xyna.space/support)**.
+2. Ask friendly in a chat.
+3. Get an Answer
 
 ### Support us
 - If you want you can buy me a coffee here: [buymeacoffee.com/Lunisiaa](https://buymeacoffee.com/Lunisiaa).
