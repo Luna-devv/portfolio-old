@@ -4,7 +4,7 @@
 ### Example pages
 - [Preview](https://luna-devv.github.io/Clean-Website/)
 - [archolek.xyz](https://www.archolek.xyz/)
-- [infoblock.gq](https://infoblock.gq)
+- [infoblock](148.251.92.133)
 
 ## Help
 1. Reach me on Discord by **[joining our server](https://xyna.space/support)**.
