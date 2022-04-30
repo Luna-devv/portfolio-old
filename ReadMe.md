@@ -7,12 +7,12 @@
 - [infoblock](Http://148.251.92.133)
 
 ## Help
-1. Reach me on Discord by **[joining our server](https://xyna.space/support)**.
+1. Reach me on Discord by **[joining our server](https://waya.one/go/discord)**.
 2. Ask friendly in a chat.
 3. Get an Answer
 
 ### Support us
-- If you want you can buy me a coffee here: [buymeacoffee.com/Lunisiaa](https://buymeacoffee.com/Lunisiaa).
+- If you want you can buy me a coffee here: [buymeacoffee.com/Lunisiaa](https://buymeacoffee.com/Lunish).
 - Please Mention that this Website Template was created be me(/us). **This is a must do**
 
 ### Made by
