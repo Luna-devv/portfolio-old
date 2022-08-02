@@ -1,5 +1,5 @@
 # Clean Website - Template
-**New version:** [Repo](https://github.com/Luna-devv/Modern-Website), [Prewiev](https://luna-devv.github.io/Modern-Website/), [Example](https://l.xyna.space)
+**New version:** [Repo](https://github.com/Luna-devv/Modern-Website), [Prewiev](https://luna-devv.github.io/Modern-Website/)
 
 ### Example pages
 - [Preview](https://luna-devv.github.io/Clean-Website/)
@@ -7,12 +7,12 @@
 - [infoblock](Http://148.251.92.133)
 
 ## Help
-1. Reach me on Discord by **[joining our server](https://waya.one/go/discord)**.
+1. Reach me on Discord by **[joining our server](https://lunish.nl/discord)**.
 2. Ask friendly in a chat.
 3. Get an Answer
 
 ### Support us
-- If you want you can buy me a coffee here: [buymeacoffee.com/Lunisiaa](https://buymeacoffee.com/Lunish).
+- If you want you can support me here: [lunish.nl/donate](https://lunish.nl/donate).
 - Please Mention that this Website Template was created be me(/us). **This is a must do**
 
 ### Made by
